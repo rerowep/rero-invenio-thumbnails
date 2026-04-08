@@ -66,6 +66,7 @@ bnf = "rero_invenio_thumbnails.contrib.bnf.api:BnfProvider"
 dnb = "rero_invenio_thumbnails.contrib.dnb.api:DnbProvider"
 "google books" = "rero_invenio_thumbnails.contrib.google_books.api:GoogleBooksProvider"
 "google api" = "rero_invenio_thumbnails.contrib.google_api.api:GoogleApiProvider"
+musicbrainz = "rero_invenio_thumbnails.contrib.musicbrainz.api:MusicBrainzProvider"
 
 # ---------------------------------------------------------------------------
 # Tool configurations
